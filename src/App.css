@@ -84,3 +84,22 @@ header h1 {
 .Netuno {
   width: 100%;
 }
+
+.mission-card {
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 50px 0;
+  width: 25%;
+}
+
+.missions {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 85%;
+  margin: 0 auto 300px;
+}
+
+h2, p {
+  padding-left: 30px;
+}
