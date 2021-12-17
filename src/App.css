@@ -19,3 +19,9 @@ header h1 {
   width: 50%;
   margin: auto;
 }
+
+.planets {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto;
+}
