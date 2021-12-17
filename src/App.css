@@ -16,12 +16,70 @@ header h1 {
   border: 1px solid white;
   border-radius: 15px;
   padding: 13px 0;
-  width: 50%;
+  width: 85%;
   margin: auto;
 }
 
 .planets {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin: 50px auto;
+  width: 90vw;
+}
+
+.planet-card {
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.planet {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Mercúrio {
+  width: 40%;
+}
+
+.Vênus {
+  width: 75%;
+}
+
+.Terra {
+  width: 80%;
+}
+
+.Marte {
+  width: 60%;
+}
+
+.Júpiter {
+  width: 100%;
+}
+
+.JúpiterDiv {
+  width: 18%;
+}
+
+.Saturno {
+  width: 100%;
+  transform: rotate(-12deg);
+}
+
+.SaturnoDiv {
+  width: 20%;
+}
+
+.Urano {
+  width: 100%;
+}
+
+.Netuno {
+  width: 100%;
 }
