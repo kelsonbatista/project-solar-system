@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/project-solar-system/static/css/main.65205e19.chunk.css",
+    "main.js": "/project-solar-system/static/js/main.4913db5c.chunk.js",
+    "main.js.map": "/project-solar-system/static/js/main.4913db5c.chunk.js.map",
+    "runtime-main.js": "/project-solar-system/static/js/runtime-main.875fc331.js",
+    "runtime-main.js.map": "/project-solar-system/static/js/runtime-main.875fc331.js.map",
+    "static/js/2.3dd02724.chunk.js": "/project-solar-system/static/js/2.3dd02724.chunk.js",
+    "static/js/2.3dd02724.chunk.js.map": "/project-solar-system/static/js/2.3dd02724.chunk.js.map",
+    "index.html": "/project-solar-system/index.html",
+    "static/css/main.65205e19.chunk.css.map": "/project-solar-system/static/css/main.65205e19.chunk.css.map",
+    "static/js/2.3dd02724.chunk.js.LICENSE.txt": "/project-solar-system/static/js/2.3dd02724.chunk.js.LICENSE.txt",
+    "static/media/Jupiter.529cdbe0.png": "/project-solar-system/static/media/Jupiter.529cdbe0.png",
+    "static/media/Marte.6cae79d3.png": "/project-solar-system/static/media/Marte.6cae79d3.png",
+    "static/media/Mercurio.a7105a56.png": "/project-solar-system/static/media/Mercurio.a7105a56.png",
+    "static/media/Netuno.48cf14b7.png": "/project-solar-system/static/media/Netuno.48cf14b7.png",
+    "static/media/Saturno.00b7295f.png": "/project-solar-system/static/media/Saturno.00b7295f.png",
+    "static/media/Terra.990ac782.png": "/project-solar-system/static/media/Terra.990ac782.png",
+    "static/media/Urano.607cb33c.png": "/project-solar-system/static/media/Urano.607cb33c.png",
+    "static/media/Venus.397fdee2.png": "/project-solar-system/static/media/Venus.397fdee2.png",
+    "static/media/App.css": "/project-solar-system/static/media/background.0dced38c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875fc331.js",
+    "static/js/2.3dd02724.chunk.js",
+    "static/css/main.65205e19.chunk.css",
+    "static/js/main.4913db5c.chunk.js"
+  ]
+}
